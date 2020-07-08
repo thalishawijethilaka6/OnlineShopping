@@ -5853,11 +5853,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Virtusa Assigment\\OnlineShoppingCart\\Virtusa.Assigment.ShoppingCart.Busniess\\Virtusa.Assigment.ShoppingCart.Busniess.csproj",
+      "projectUniqueName": "D:\\Virtusa Assigment\\gitrepo\\OnlineShoppingCart\\Virtusa.Assigment.ShoppingCart.Busniess\\Virtusa.Assigment.ShoppingCart.Busniess.csproj",
       "projectName": "Virtusa.Assigment.ShoppingCart.Busniess",
-      "projectPath": "D:\\Virtusa Assigment\\OnlineShoppingCart\\Virtusa.Assigment.ShoppingCart.Busniess\\Virtusa.Assigment.ShoppingCart.Busniess.csproj",
+      "projectPath": "D:\\Virtusa Assigment\\gitrepo\\OnlineShoppingCart\\Virtusa.Assigment.ShoppingCart.Busniess\\Virtusa.Assigment.ShoppingCart.Busniess.csproj",
       "packagesPath": "C:\\Users\\Thaleesha-\\.nuget\\packages\\",
-      "outputPath": "D:\\Virtusa Assigment\\OnlineShoppingCart\\Virtusa.Assigment.ShoppingCart.Busniess\\obj\\",
+      "outputPath": "D:\\Virtusa Assigment\\gitrepo\\OnlineShoppingCart\\Virtusa.Assigment.ShoppingCart.Busniess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thaleesha-\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5873,8 +5873,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Virtusa Assigment\\OnlineShoppingCart\\Virtusa.Assigment.ShoppingCart.Data\\Virtusa.Assigment.ShoppingCart.Data.csproj": {
-              "projectPath": "D:\\Virtusa Assigment\\OnlineShoppingCart\\Virtusa.Assigment.ShoppingCart.Data\\Virtusa.Assigment.ShoppingCart.Data.csproj"
+            "D:\\Virtusa Assigment\\gitrepo\\OnlineShoppingCart\\Virtusa.Assigment.ShoppingCart.Data\\Virtusa.Assigment.ShoppingCart.Data.csproj": {
+              "projectPath": "D:\\Virtusa Assigment\\gitrepo\\OnlineShoppingCart\\Virtusa.Assigment.ShoppingCart.Data\\Virtusa.Assigment.ShoppingCart.Data.csproj"
             }
           }
         }
