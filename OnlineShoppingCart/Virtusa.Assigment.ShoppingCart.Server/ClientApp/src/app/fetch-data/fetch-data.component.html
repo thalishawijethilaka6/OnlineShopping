@@ -1,0 +1,31 @@
+<h1 id="tableLabel">Online Shopping Cart</h1>
+
+
+<div>
+  <select [(ngModel)]="selectedLevel" (change)="selected()">
+    <option value="0">--All--</option>
+    <option *ngFor="let cat of category" value={{cat.id}}>
+      {{cat.name}}
+    </option>
+  </select>
+</div>
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="products">
+  <thead>
+    <tr>
+
+      <th>Product Name</th>
+      <th>Discription</th>
+      <th>Stock Availability</th>
+
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let product of products">
+
+      <td>{{product.name }}</td>
+      <td>{{product.discription }}</td>
+      <td>{{product.stockAvailability }}</td>
+
+    </tr>
+  </tbody>
+</table>

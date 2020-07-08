@@ -1,0 +1,12 @@
+D:\Virtusa Assigment\OnlineShoppingCart\Virtusa.Assigment.ShoppingCart.Data\bin\Debug\netcoreapp3.1\Virtusa.Assigment.ShoppingCart.Data.deps.json
+D:\Virtusa Assigment\OnlineShoppingCart\Virtusa.Assigment.ShoppingCart.Data\bin\Debug\netcoreapp3.1\Virtusa.Assigment.ShoppingCart.Data.runtimeconfig.json
+D:\Virtusa Assigment\OnlineShoppingCart\Virtusa.Assigment.ShoppingCart.Data\bin\Debug\netcoreapp3.1\Virtusa.Assigment.ShoppingCart.Data.runtimeconfig.dev.json
+D:\Virtusa Assigment\OnlineShoppingCart\Virtusa.Assigment.ShoppingCart.Data\bin\Debug\netcoreapp3.1\Virtusa.Assigment.ShoppingCart.Data.dll
+D:\Virtusa Assigment\OnlineShoppingCart\Virtusa.Assigment.ShoppingCart.Data\bin\Debug\netcoreapp3.1\Virtusa.Assigment.ShoppingCart.Data.pdb
+D:\Virtusa Assigment\OnlineShoppingCart\Virtusa.Assigment.ShoppingCart.Data\obj\Debug\netcoreapp3.1\Virtusa.Assigment.ShoppingCart.Data.csprojAssemblyReference.cache
+D:\Virtusa Assigment\OnlineShoppingCart\Virtusa.Assigment.ShoppingCart.Data\obj\Debug\netcoreapp3.1\Virtusa.Assigment.ShoppingCart.Data.AssemblyInfoInputs.cache
+D:\Virtusa Assigment\OnlineShoppingCart\Virtusa.Assigment.ShoppingCart.Data\obj\Debug\netcoreapp3.1\Virtusa.Assigment.ShoppingCart.Data.AssemblyInfo.cs
+D:\Virtusa Assigment\OnlineShoppingCart\Virtusa.Assigment.ShoppingCart.Data\obj\Debug\netcoreapp3.1\Virtusa.Assigment.ShoppingCart.Data.csproj.CoreCompileInputs.cache
+D:\Virtusa Assigment\OnlineShoppingCart\Virtusa.Assigment.ShoppingCart.Data\obj\Debug\netcoreapp3.1\Virtusa.Assigment.ShoppingCart.Data.dll
+D:\Virtusa Assigment\OnlineShoppingCart\Virtusa.Assigment.ShoppingCart.Data\obj\Debug\netcoreapp3.1\Virtusa.Assigment.ShoppingCart.Data.pdb
+D:\Virtusa Assigment\OnlineShoppingCart\Virtusa.Assigment.ShoppingCart.Data\obj\Debug\netcoreapp3.1\Virtusa.Assigment.ShoppingCart.Data.genruntimeconfig.cache

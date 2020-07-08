@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Virtusa.Assigment.ShoppingCart.Data\Virtusa.Assigment.ShoppingCart.Data.csproj" />
+  </ItemGroup>
+
+</Project>
